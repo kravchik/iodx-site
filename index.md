@@ -4,10 +4,7 @@
 
 IODX is a compact, human-readable data syntax for structured data in Java. It sits in the same space as JSON and YAML, but favors terse input, optional quoting, and readable entity-style notation.
 
-## Repositories
-
 * Main repository: [kravchik/iodx](https://github.com/kravchik/iodx)
-* Site repository: [kravchik/iodx-site](https://github.com/kravchik/iodx-site)
 
 ## Features
 
@@ -118,5 +115,3 @@ travaller!
 ```
 
 Current development version is `0.4-SNAPSHOT`.
-
-Source of truth for this page: [README.md in the main repository](https://github.com/kravchik/iodx/blob/main/README.md)
