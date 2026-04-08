@@ -110,8 +110,8 @@ travaller!
     <groupId>yk</groupId>
     <artifactId>iodx</artifactId>
     <!-- NO ARTIFACT ! SHOULD CHECK-OUT AND BUILD LOCALLY   -->
-    <version>0.4-SNAPSHOT</version>
+    <version>0.4</version>
 </dependency>
 ```
 
-Current development version is `0.4-SNAPSHOT`.
+Current development version is `0.5-SNAPSHOT`.
