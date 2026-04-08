@@ -1,7 +1,3 @@
----
-title: IODX
----
-
 # IODX
 
 **Input Output Data syntaX**
