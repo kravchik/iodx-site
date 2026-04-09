@@ -109,7 +109,6 @@ travaller!
 <dependency>
     <groupId>yk</groupId>
     <artifactId>iodx</artifactId>
-    <!-- NO ARTIFACT ! SHOULD CHECK-OUT AND BUILD LOCALLY   -->
     <version>0.4</version>
 </dependency>
 ```
